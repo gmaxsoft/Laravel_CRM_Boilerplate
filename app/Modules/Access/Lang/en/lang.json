@@ -1,0 +1,23 @@
+{
+    "breadcrumb": {
+        "settings": "Settings",
+        "access": "Permissions"
+    },
+    "tabs": {
+        "list": "List",
+        "add": "Add"
+    },
+    "table": {
+        "id": "Id",
+        "name": "Name",
+        "level": "Level"
+    },
+    "form": {
+        "title": "Permissions",
+        "name": "Name",
+        "level": "Level",
+        "placeholder_name": "Enter name",
+        "placeholder_level": "Enter level (number)",
+        "add": "Add"
+    }
+}

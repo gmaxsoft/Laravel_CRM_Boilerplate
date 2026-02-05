@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "CRM - Panel",
+        "nav": "Nawigacja",
+        "collapse_menu": "Zwiń menu",
+        "expand_menu": "Rozwiń menu",
+        "logout": "Wyloguj",
+        "breadcrumb_start": "Start"
+    },
+    "menu": {
+        "dashboard": "Dashboard",
+        "customers": "Klienci",
+        "advertisements": "Ogłoszenia",
+        "calendar": "Kalendarz",
+        "documents": "Dokumenty",
+        "administration": "Administracja",
+        "users": "Użytkownicy",
+        "access": "Uprawnienia",
+        "settings": "Ustawienia",
+        "calendar_categories": "Kategorie kalendarza"
+    },
+    "common": {
+        "action": "Akcja",
+        "delete": "Usuń",
+        "list": "Lista",
+        "add": "Dodaj",
+        "reset": "Reset",
+        "close": "Zamknij",
+        "save": "Zapisz",
+        "select": "Wybierz"
+    },
+    "login": {
+        "title": "Logowanie - CRM",
+        "heading": "Logowanie",
+        "email": "E-mail",
+        "password": "Hasło",
+        "remember": "Zapamiętaj mnie",
+        "submit": "Zaloguj się",
+        "copyright": "Wszystkie prawa zastrzeżone."
+    }
+}

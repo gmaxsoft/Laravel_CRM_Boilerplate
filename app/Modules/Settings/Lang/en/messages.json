@@ -1,0 +1,22 @@
+{
+    "messages": {
+        "category_created": "New category has been successfully added!",
+        "category_updated": "Category has been successfully updated!",
+        "category_deleted": "Category has been successfully deleted!"
+    },
+    "validation": {
+        "cal_cat_name": {
+            "required": "Category name is required.",
+            "string": "Category name must be a string.",
+            "max": "Category name must not exceed 255 characters."
+        },
+        "cal_cat_value": {
+            "required": "Event colour is required.",
+            "in": "Selected colour is invalid."
+        },
+        "edit_id": {
+            "required": "Category ID is required.",
+            "exists": "Selected category does not exist."
+        }
+    }
+}

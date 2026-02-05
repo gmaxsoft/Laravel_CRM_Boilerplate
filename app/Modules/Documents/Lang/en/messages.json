@@ -1,0 +1,13 @@
+{
+    "messages": {
+        "file_uploaded": "File has been successfully uploaded.",
+        "file_deleted": "File has been deleted."
+    },
+    "validation": {
+        "file": {
+            "required": "Select a file to upload.",
+            "file": "The uploaded item must be a file.",
+            "max": "File size must not exceed 20 MB."
+        }
+    }
+}

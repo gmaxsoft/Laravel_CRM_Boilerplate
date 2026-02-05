@@ -1,0 +1,32 @@
+{
+    "validation": {
+        "adv_machine_type": {
+            "required": "Machine type is required."
+        },
+        "adv_producer": {
+            "required": "Brand is required."
+        },
+        "adv_model": {
+            "required": "Model is required."
+        },
+        "adv_year": {
+            "required": "Year of manufacture is required."
+        },
+        "adv_location": {
+            "required": "Location is required."
+        },
+        "adv_reservation": {
+            "required": "Website status is required."
+        }
+    },
+    "success": {
+        "created": "Advertisement has been successfully added!",
+        "updated": "Advertisement has been successfully updated!",
+        "deleted": "Advertisement has been successfully deleted!"
+    },
+    "errors": {
+        "create_failed": "An error occurred! Advertisement was not added...",
+        "update_failed": "An error occurred! Advertisement was not updated...",
+        "delete_failed": "An error occurred! Advertisement was not deleted..."
+    }
+}

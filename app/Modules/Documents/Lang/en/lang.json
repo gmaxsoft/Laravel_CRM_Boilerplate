@@ -1,0 +1,22 @@
+{
+    "breadcrumb": {
+        "documents": "Documents"
+    },
+    "tabs": {
+        "file_list": "File list",
+        "upload": "Upload file"
+    },
+    "table": {
+        "id": "Id",
+        "file_name": "File name",
+        "size": "Size",
+        "type": "Type",
+        "uploaded_by": "Uploaded by",
+        "date": "Date"
+    },
+    "form": {
+        "title": "Upload file (max 20 MB)",
+        "file": "File",
+        "upload": "Upload"
+    }
+}

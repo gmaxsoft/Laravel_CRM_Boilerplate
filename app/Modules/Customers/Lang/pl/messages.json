@@ -1,0 +1,29 @@
+{
+    "validation": {
+        "customers_firstname": {
+            "required": "Imię jest wymagane."
+        },
+        "customers_lastname": {
+            "required": "Nazwisko jest wymagane."
+        },
+        "customers_phone": {
+            "required": "Telefon jest wymagany."
+        },
+        "customers_adres": {
+            "required": "Adres jest wymagany."
+        },
+        "customers_email": {
+            "email": "Podaj prawidłowy adres e-mail."
+        }
+    },
+    "success": {
+        "created": "Klient został pomyślnie dodany!",
+        "updated": "Dane klienta zostały pomyślnie uaktualnione!",
+        "deleted": "Klient został pomyślnie usunięty!"
+    },
+    "errors": {
+        "create_failed": "Wystąpił błąd! Klient nie został dodany...",
+        "update_failed": "Wystąpił błąd! Dane klienta nie zostały uaktualnione...",
+        "delete_failed": "Wystąpił błąd! Klient nie został usunięty..."
+    }
+}

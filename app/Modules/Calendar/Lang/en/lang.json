@@ -1,0 +1,56 @@
+{
+    "breadcrumb": {
+        "calendar": "Calendar"
+    },
+    "tabs": {
+        "calendar": "Calendar",
+        "events_list": "Events list"
+    },
+    "buttons": {
+        "new_event": "Create new event",
+        "delete": "Delete",
+        "close": "Close",
+        "save": "Save",
+        "today": "Today",
+        "month": "Month",
+        "week": "Week",
+        "day": "Day",
+        "list": "List",
+        "prev": "Prev",
+        "next": "Next"
+    },
+    "modal": {
+        "add_event": "Add event",
+        "edit_event": "Edit event"
+    },
+    "errors": {
+        "default": "Something went wrong!..."
+    },
+    "hint": "Drag and drop events or click on the calendar.",
+    "notes_title": "Notes",
+    "notes_info": "Additional events can be created in Settings -> Calendar categories.",
+    "form": {
+        "event_name": "Event name",
+        "category": "Category",
+        "start_time": "Start time",
+        "end_time": "End time",
+        "notes": "Notes",
+        "placeholder_name": "Enter event name",
+        "placeholder_start": "Enter start time",
+        "placeholder_end": "Enter end time",
+        "select": "Select",
+        "invalid_name": "Please enter a valid event name",
+        "invalid_category": "Please select a valid event category"
+    },
+    "table": {
+        "lp": "No.",
+        "id": "Id",
+        "event_name": "Event name",
+        "category": "Category",
+        "date_from": "Date from",
+        "date_to": "Date to",
+        "annotations": "Annotations",
+        "added_by": "Added by",
+        "created_at": "Date added"
+    }
+}

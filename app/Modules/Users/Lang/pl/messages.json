@@ -1,0 +1,44 @@
+{
+    "validation": {
+        "first_name": {
+            "required": "Imię jest wymagane."
+        },
+        "last_name": {
+            "required": "Nazwisko jest wymagane."
+        },
+        "email": {
+            "required": "Adres e-mail jest wymagany.",
+            "email": "Podaj prawidłowy adres e-mail.",
+            "unique": "Ten adres e-mail jest już zajęty."
+        },
+        "password": {
+            "required": "Hasło jest wymagane.",
+            "min": "Hasło musi mieć co najmniej :min znaków."
+        },
+        "symbol": {
+            "required": "Symbol jest wymagany."
+        },
+        "user_level": {
+            "required": "Uprawnienia są wymagane."
+        },
+        "password_confirmation": {
+            "confirmed": "Hasła nie są identyczne."
+        }
+    },
+    "success": {
+        "created": "Użytkownik został pomyślnie dodany!",
+        "updated": "Dane użytkownika zostały pomyślnie uaktualnione!",
+        "password_updated": "Hasło zostało pomyślnie uaktualnione!",
+        "deleted": "Użytkownik został pomyślnie usunięty!"
+    },
+    "errors": {
+        "create_failed": "Wystąpił błąd! Użytkownik nie został dodany...",
+        "update_failed": "Wystąpił błąd! Dane użytkownika nie zostały uaktualnione...",
+        "password_update_failed": "Wystąpił błąd! Hasło nie zostało uaktualnione...",
+        "delete_failed": "Wystąpił błąd! Użytkownik nie został usunięty...",
+        "password_empty": "Wpisz hasło!",
+        "password_mismatch": "Podane hasła różnią się od siebie!",
+        "level_empty": "Zaznacz uprawnienia!",
+        "symbol_empty": "Wpisz SYMBOL / SKRÓT!"
+    }
+}

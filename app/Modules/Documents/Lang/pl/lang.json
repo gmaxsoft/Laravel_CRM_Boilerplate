@@ -1,0 +1,22 @@
+{
+    "breadcrumb": {
+        "documents": "Dokumenty"
+    },
+    "tabs": {
+        "file_list": "Lista plików",
+        "upload": "Prześlij plik"
+    },
+    "table": {
+        "id": "Id",
+        "file_name": "Nazwa pliku",
+        "size": "Rozmiar",
+        "type": "Typ",
+        "uploaded_by": "Przesłany przez",
+        "date": "Data"
+    },
+    "form": {
+        "title": "Prześlij plik (max 20 MB)",
+        "file": "Plik",
+        "upload": "Prześlij"
+    }
+}

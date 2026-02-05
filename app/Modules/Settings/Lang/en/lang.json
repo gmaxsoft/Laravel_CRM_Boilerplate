@@ -1,0 +1,33 @@
+{
+    "breadcrumb": {
+        "settings": "Settings",
+        "calendar_categories": "Calendar categories"
+    },
+    "tabs": {
+        "list": "List",
+        "add": "Add"
+    },
+    "table": {
+        "id": "Id",
+        "name": "Name",
+        "color": "Colour"
+    },
+    "form": {
+        "title": "Enter category",
+        "event_name": "Event name",
+        "event_color": "Event colour",
+        "placeholder_name": "Enter category name",
+        "add": "Add",
+        "colors": {
+            "blue": "Blue",
+            "grey": "Grey",
+            "green": "Green",
+            "red": "Red",
+            "yellow": "Yellow",
+            "info": "Cyan",
+            "light": "Light",
+            "dark": "Dark",
+            "workshop": "Workshop (yellow)"
+        }
+    }
+}

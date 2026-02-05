@@ -1,0 +1,11 @@
+{
+    "login": {
+        "title": "Logowanie - CRM",
+        "heading": "Logowanie",
+        "email": "E-mail",
+        "password": "Hasło",
+        "remember": "Zapamiętaj mnie",
+        "submit": "Zaloguj się",
+        "copyright": "Wszystkie prawa zastrzeżone."
+    }
+}

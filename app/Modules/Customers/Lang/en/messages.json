@@ -1,0 +1,29 @@
+{
+    "validation": {
+        "customers_firstname": {
+            "required": "First name is required."
+        },
+        "customers_lastname": {
+            "required": "Last name is required."
+        },
+        "customers_phone": {
+            "required": "Phone number is required."
+        },
+        "customers_adres": {
+            "required": "Address is required."
+        },
+        "customers_email": {
+            "email": "Please enter a valid email address."
+        }
+    },
+    "success": {
+        "created": "Customer has been successfully added!",
+        "updated": "Customer data has been successfully updated!",
+        "deleted": "Customer has been successfully deleted!"
+    },
+    "errors": {
+        "create_failed": "An error occurred! Customer was not added...",
+        "update_failed": "An error occurred! Customer data was not updated...",
+        "delete_failed": "An error occurred! Customer was not deleted..."
+    }
+}

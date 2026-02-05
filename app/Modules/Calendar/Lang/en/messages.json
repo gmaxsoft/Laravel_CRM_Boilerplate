@@ -1,0 +1,27 @@
+{
+    "validation": {
+        "title": {
+            "required": "Event name is required."
+        },
+        "category": {
+            "required": "Category is required."
+        },
+        "start": {
+            "required": "Start date is required."
+        },
+        "end": {
+            "required": "End date is required.",
+            "after_or_equal": "End date must be after or equal to start date."
+        }
+    },
+    "success": {
+        "created": "Event has been successfully added!",
+        "updated": "Event has been successfully updated!",
+        "deleted": "Event has been successfully deleted!"
+    },
+    "errors": {
+        "create_failed": "An error occurred! Event was not added...",
+        "update_failed": "An error occurred! Event was not updated...",
+        "delete_failed": "An error occurred! Event was not deleted..."
+    }
+}

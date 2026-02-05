@@ -1,0 +1,21 @@
+{
+    "validation": {
+        "name": {
+            "required": "Name is required."
+        },
+        "level": {
+            "required": "Level is required.",
+            "integer": "Level must be an integer."
+        }
+    },
+    "success": {
+        "created": "Permissions have been successfully added!",
+        "updated": "Permissions have been successfully updated!",
+        "deleted": "Permissions have been successfully deleted!"
+    },
+    "errors": {
+        "create_failed": "An error occurred! Permissions were not added...",
+        "update_failed": "An error occurred! Permissions were not updated...",
+        "delete_failed": "An error occurred! Permissions were not deleted..."
+    }
+}

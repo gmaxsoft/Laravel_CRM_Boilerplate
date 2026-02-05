@@ -1,0 +1,15 @@
+{
+    "validation": {
+        "email": {
+            "required": "Adres e-mail jest wymagany.",
+            "email": "Podaj prawidłowy adres e-mail."
+        },
+        "password": {
+            "required": "Hasło jest wymagane."
+        }
+    },
+    "auth": {
+        "failed": "Podane dane logowania nie są poprawne.",
+        "throttle": "Zbyt wiele prób logowania. Spróbuj ponownie za :seconds sekund."
+    }
+}

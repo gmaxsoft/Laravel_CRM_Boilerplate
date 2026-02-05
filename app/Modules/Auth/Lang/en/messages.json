@@ -1,0 +1,15 @@
+{
+    "validation": {
+        "email": {
+            "required": "Email address is required.",
+            "email": "Please enter a valid email address."
+        },
+        "password": {
+            "required": "Password is required."
+        }
+    },
+    "auth": {
+        "failed": "These credentials do not match our records.",
+        "throttle": "Too many login attempts. Please try again in :seconds seconds."
+    }
+}

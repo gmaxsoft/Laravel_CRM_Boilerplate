@@ -1,0 +1,32 @@
+{
+    "validation": {
+        "adv_machine_type": {
+            "required": "Typ maszyny jest wymagany."
+        },
+        "adv_producer": {
+            "required": "Marka jest wymagana."
+        },
+        "adv_model": {
+            "required": "Model jest wymagany."
+        },
+        "adv_year": {
+            "required": "Rok produkcji jest wymagany."
+        },
+        "adv_location": {
+            "required": "Lokalizacja jest wymagana."
+        },
+        "adv_reservation": {
+            "required": "Status www jest wymagany."
+        }
+    },
+    "success": {
+        "created": "Ogłoszenie zostało pomyślnie dodane!",
+        "updated": "Ogłoszenie zostało pomyślnie uaktualnione!",
+        "deleted": "Ogłoszenie zostało pomyślnie usunięte!"
+    },
+    "errors": {
+        "create_failed": "Wystąpił błąd! Ogłoszenie nie zostało dodane...",
+        "update_failed": "Wystąpił błąd! Ogłoszenie nie zostało uaktualnione...",
+        "delete_failed": "Wystąpił błąd! Ogłoszenie nie zostało usunięte..."
+    }
+}

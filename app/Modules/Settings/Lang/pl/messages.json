@@ -1,0 +1,22 @@
+{
+    "messages": {
+        "category_created": "Nowa kategoria została pomyślnie dodana!",
+        "category_updated": "Kategoria została pomyślnie uaktualniona!",
+        "category_deleted": "Kategoria została pomyślnie usunięta!"
+    },
+    "validation": {
+        "cal_cat_name": {
+            "required": "Nazwa kategorii jest wymagana.",
+            "string": "Nazwa kategorii musi być tekstem.",
+            "max": "Nazwa kategorii nie może przekraczać 255 znaków."
+        },
+        "cal_cat_value": {
+            "required": "Kolor wydarzenia jest wymagany.",
+            "in": "Wybrany kolor jest nieprawidłowy."
+        },
+        "edit_id": {
+            "required": "ID kategorii jest wymagane.",
+            "exists": "Wybrana kategoria nie istnieje."
+        }
+    }
+}

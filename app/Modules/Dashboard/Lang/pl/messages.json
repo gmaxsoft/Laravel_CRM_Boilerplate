@@ -1,0 +1,12 @@
+{
+    "welcome": "Witaj",
+    "logged_as": "Jesteś zalogowany jako",
+    "access_level": "Poziom dostępu",
+    "stats": {
+        "customers": "Klienci",
+        "advertisements": "Ogłoszenia",
+        "calendar_events": "Wydarzenia w kalendarzu",
+        "users": "Użytkownicy",
+        "chart_title": "Podsumowanie"
+    }
+}

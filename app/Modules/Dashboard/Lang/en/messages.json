@@ -1,0 +1,12 @@
+{
+    "welcome": "Welcome",
+    "logged_as": "You are logged in as",
+    "access_level": "Access level",
+    "stats": {
+        "customers": "Customers",
+        "advertisements": "Advertisements",
+        "calendar_events": "Calendar events",
+        "users": "Users",
+        "chart_title": "Summary"
+    }
+}

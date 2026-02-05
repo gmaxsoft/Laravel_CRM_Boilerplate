@@ -1,0 +1,57 @@
+{
+    "breadcrumb": {
+        "settings": "Settings",
+        "user_management": "User Management",
+        "user_data": "User data"
+    },
+    "tabs": {
+        "list": "List",
+        "add": "Add",
+        "edit_data": "Edit data",
+        "change_password": "Change password"
+    },
+    "table": {
+        "lp": "No.",
+        "id": "Id",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "email": "Email",
+        "phone": "Phone",
+        "stand_name": "Position",
+        "symbol": "Symbol",
+        "department": "Department",
+        "user_level": "Permissions"
+    },
+    "form": {
+        "user_data": "User data",
+        "login_data": "Login data",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "stand_name": "Position",
+        "phone": "Phone",
+        "upload_photo": "Upload photo",
+        "symbol": "Symbol / Abbreviation",
+        "department": "Department / Address",
+        "description": "Description",
+        "user_level": "Permissions",
+        "email_login": "Email address / login",
+        "password": "Password",
+        "repeat_password": "Repeat password",
+        "add_user": "Add user",
+        "update": "Update",
+        "back_to_list": "Back to list",
+        "edit_user": "Edit user: :name",
+        "new_password": "New password",
+        "change_password_btn": "Change password"
+    },
+    "placeholder": {
+        "first_name": "Enter user first name",
+        "last_name": "Enter user last name",
+        "stand_name": "Enter position",
+        "phone": "Enter phone",
+        "symbol": "Enter two-letter symbol",
+        "department": "Enter department",
+        "description": "Enter description",
+        "email": "Enter email"
+    }
+}

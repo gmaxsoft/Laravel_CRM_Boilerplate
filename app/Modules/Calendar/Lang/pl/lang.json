@@ -1,0 +1,56 @@
+{
+    "breadcrumb": {
+        "calendar": "Kalendarz"
+    },
+    "tabs": {
+        "calendar": "Kalendarz",
+        "events_list": "Lista wydarzeń"
+    },
+    "buttons": {
+        "new_event": "Utwórz nowe wydarzenie",
+        "delete": "Usuń",
+        "close": "Zamknij",
+        "save": "Zapisz",
+        "today": "Dziś",
+        "month": "Miesiąc",
+        "week": "Tydzień",
+        "day": "Dzień",
+        "list": "Lista",
+        "prev": "Wstecz",
+        "next": "Dalej"
+    },
+    "modal": {
+        "add_event": "Dodaj wydarzenie",
+        "edit_event": "Edytuj wydarzenie"
+    },
+    "errors": {
+        "default": "Coś poszło nie tak!..."
+    },
+    "hint": "Przeciągnij i upuść wydarzenie lub kliknij w kalendarzu.",
+    "notes_title": "Uwagi",
+    "notes_info": "Dodatkowe wydarzenia można tworzyć w zakładce Ustawienia -> Kategorie kalendarza.",
+    "form": {
+        "event_name": "Nazwa wydarzenia",
+        "category": "Kategoria",
+        "start_time": "Czas rozpoczęcia",
+        "end_time": "Czas zakończenia",
+        "notes": "Uwagi",
+        "placeholder_name": "Wpisz nazwę wydarzenia",
+        "placeholder_start": "Wpisz czas rozpoczęcia",
+        "placeholder_end": "Wpisz czas zakończenia",
+        "select": "Wybierz",
+        "invalid_name": "Podaj prawidłową nazwę wydarzenia",
+        "invalid_category": "Wybierz prawidłową kategorię wydarzenia"
+    },
+    "table": {
+        "lp": "Lp",
+        "id": "Id",
+        "event_name": "Nazwa wydarzenia",
+        "category": "Kategoria",
+        "date_from": "Data od",
+        "date_to": "Data do",
+        "annotations": "Adnotacje",
+        "added_by": "Kto dodał?",
+        "created_at": "Data dodania"
+    }
+}

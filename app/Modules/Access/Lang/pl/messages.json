@@ -1,0 +1,21 @@
+{
+    "validation": {
+        "name": {
+            "required": "Nazwa jest wymagana."
+        },
+        "level": {
+            "required": "Poziom jest wymagany.",
+            "integer": "Poziom musi być liczbą całkowitą."
+        }
+    },
+    "success": {
+        "created": "Uprawnienia zostały pomyślnie dodane!",
+        "updated": "Uprawnienia zostały pomyślnie uaktualnione!",
+        "deleted": "Uprawnienia zostały pomyślnie usunięte!"
+    },
+    "errors": {
+        "create_failed": "Wystąpił błąd! Uprawnienia nie zostały dodane...",
+        "update_failed": "Wystąpił błąd! Uprawnienia nie zostały uaktualnione...",
+        "delete_failed": "Wystąpił błąd! Uprawnienia nie zostały usunięte..."
+    }
+}

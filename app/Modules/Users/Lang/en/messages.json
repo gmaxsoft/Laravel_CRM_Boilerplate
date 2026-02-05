@@ -1,0 +1,44 @@
+{
+    "validation": {
+        "first_name": {
+            "required": "First name is required."
+        },
+        "last_name": {
+            "required": "Last name is required."
+        },
+        "email": {
+            "required": "Email address is required.",
+            "email": "Please enter a valid email address.",
+            "unique": "This email address is already in use."
+        },
+        "password": {
+            "required": "Password is required.",
+            "min": "Password must be at least :min characters."
+        },
+        "symbol": {
+            "required": "Symbol is required."
+        },
+        "user_level": {
+            "required": "Permissions are required."
+        },
+        "password_confirmation": {
+            "confirmed": "Passwords do not match."
+        }
+    },
+    "success": {
+        "created": "User has been successfully added!",
+        "updated": "User data has been successfully updated!",
+        "password_updated": "Password has been successfully updated!",
+        "deleted": "User has been successfully deleted!"
+    },
+    "errors": {
+        "create_failed": "An error occurred! User was not added...",
+        "update_failed": "An error occurred! User data was not updated...",
+        "password_update_failed": "An error occurred! Password was not updated...",
+        "delete_failed": "An error occurred! User was not deleted...",
+        "password_empty": "Enter password!",
+        "password_mismatch": "The passwords you entered do not match!",
+        "level_empty": "Select permissions!",
+        "symbol_empty": "Enter SYMBOL / ABBREVIATION!"
+    }
+}

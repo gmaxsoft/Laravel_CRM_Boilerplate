@@ -1,0 +1,11 @@
+{
+    "login": {
+        "title": "Login - CRM",
+        "heading": "Login",
+        "email": "Email",
+        "password": "Password",
+        "remember": "Remember me",
+        "submit": "Log in",
+        "copyright": "All rights reserved."
+    }
+}

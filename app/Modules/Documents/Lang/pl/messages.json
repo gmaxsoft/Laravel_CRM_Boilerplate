@@ -1,0 +1,13 @@
+{
+    "messages": {
+        "file_uploaded": "Plik został pomyślnie przesłany.",
+        "file_deleted": "Plik został usunięty."
+    },
+    "validation": {
+        "file": {
+            "required": "Wybierz plik do przesłania.",
+            "file": "Przesłany element musi być plikiem.",
+            "max": "Plik nie może być większy niż 20 MB."
+        }
+    }
+}

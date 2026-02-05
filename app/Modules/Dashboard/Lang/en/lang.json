@@ -1,0 +1,38 @@
+{
+    "app": {
+        "title": "CRM - Panel",
+        "nav": "Navigation",
+        "collapse_menu": "Collapse menu",
+        "expand_menu": "Expand menu",
+        "toggle_menu": "Toggle menu",
+        "logout": "Log out",
+        "breadcrumb_start": "Home"
+    },
+    "menu": {
+        "dashboard": "Dashboard",
+        "customers": "Customers",
+        "advertisements": "Advertisements",
+        "calendar": "Calendar",
+        "documents": "Documents",
+        "administration": "Administration",
+        "users": "Users",
+        "access": "Permissions",
+        "settings": "Settings",
+        "calendar_categories": "Calendar categories"
+    },
+    "confirm_delete": {
+        "title": "Delete",
+        "confirm": "Delete",
+        "cancel": "Cancel"
+    },
+    "common": {
+        "action": "Action",
+        "delete": "Delete",
+        "list": "List",
+        "add": "Add",
+        "reset": "Reset",
+        "close": "Close",
+        "save": "Save",
+        "select": "Select"
+    }
+}

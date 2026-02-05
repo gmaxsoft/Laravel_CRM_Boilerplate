@@ -1,0 +1,33 @@
+{
+    "breadcrumb": {
+        "settings": "Ustawienia",
+        "calendar_categories": "Kategorie kalendarza"
+    },
+    "tabs": {
+        "list": "Lista",
+        "add": "Dodaj"
+    },
+    "table": {
+        "id": "Id",
+        "name": "Nazwa",
+        "color": "Kolor"
+    },
+    "form": {
+        "title": "Wpisz kategorie",
+        "event_name": "Nazwa wydarzenia",
+        "event_color": "Kolor wydarzenia",
+        "placeholder_name": "Wpisz nazwę kategorii",
+        "add": "Dodaj",
+        "colors": {
+            "blue": "Niebieski",
+            "grey": "Szary",
+            "green": "Zielony",
+            "red": "Czerwony",
+            "yellow": "Żółty",
+            "info": "Seledynowy",
+            "light": "Ciemny biały",
+            "dark": "Jasny czarny",
+            "workshop": "Warsztaty (żółty)"
+        }
+    }
+}

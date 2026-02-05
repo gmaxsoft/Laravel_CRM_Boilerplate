@@ -1,0 +1,23 @@
+{
+    "breadcrumb": {
+        "settings": "Ustawienia",
+        "access": "Uprawnienia"
+    },
+    "tabs": {
+        "list": "Lista",
+        "add": "Dodaj"
+    },
+    "table": {
+        "id": "Id",
+        "name": "Nazwa",
+        "level": "Poziom"
+    },
+    "form": {
+        "title": "Uprawnienia",
+        "name": "Nazwa",
+        "level": "Poziom",
+        "placeholder_name": "Wpisz nazwę",
+        "placeholder_level": "Wpisz poziom (cyfra)",
+        "add": "Dodaj"
+    }
+}

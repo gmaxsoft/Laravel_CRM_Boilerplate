@@ -1,0 +1,57 @@
+{
+    "breadcrumb": {
+        "settings": "Ustawienia",
+        "user_management": "Zarządzanie Użytkownikami",
+        "user_data": "Dane użytkownika"
+    },
+    "tabs": {
+        "list": "Lista",
+        "add": "Dodaj",
+        "edit_data": "Edycja danych",
+        "change_password": "Zmiana hasła"
+    },
+    "table": {
+        "lp": "Lp",
+        "id": "Id",
+        "first_name": "Imię",
+        "last_name": "Nazwisko",
+        "email": "E-mail",
+        "phone": "Telefon",
+        "stand_name": "Stanowisko",
+        "symbol": "Symbol",
+        "department": "Oddział",
+        "user_level": "Uprawnienia"
+    },
+    "form": {
+        "user_data": "Dane użytkownika",
+        "login_data": "Dane logowania",
+        "first_name": "Imię",
+        "last_name": "Nazwisko",
+        "stand_name": "Stanowisko",
+        "phone": "Telefon",
+        "upload_photo": "Wgraj zdjęcie",
+        "symbol": "Symbol / Skrót",
+        "department": "Oddział / Adres",
+        "description": "Opis",
+        "user_level": "Uprawnienia",
+        "email_login": "Adres email/login",
+        "password": "Hasło",
+        "repeat_password": "Powtórz hasło",
+        "add_user": "Dodaj użytkownika",
+        "update": "Uaktualnij",
+        "back_to_list": "Powrót do listy",
+        "edit_user": "Edycja użytkownika: :name",
+        "new_password": "Nowe hasło",
+        "change_password_btn": "Zmień hasło"
+    },
+    "placeholder": {
+        "first_name": "Wpisz imię użytkownika",
+        "last_name": "Wpisz nazwisko użytkownika",
+        "stand_name": "Wpisz stanowisko",
+        "phone": "Wpisz telefon",
+        "symbol": "Wpisz dwu literowy symbol",
+        "department": "Wpisz oddział",
+        "description": "Wpisz opis",
+        "email": "Wpisz email"
+    }
+}

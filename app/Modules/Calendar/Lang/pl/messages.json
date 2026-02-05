@@ -1,0 +1,27 @@
+{
+    "validation": {
+        "title": {
+            "required": "Nazwa wydarzenia jest wymagana."
+        },
+        "category": {
+            "required": "Kategoria jest wymagana."
+        },
+        "start": {
+            "required": "Data rozpoczęcia jest wymagana."
+        },
+        "end": {
+            "required": "Data zakończenia jest wymagana.",
+            "after_or_equal": "Data zakończenia musi być późniejsza lub równa dacie rozpoczęcia."
+        }
+    },
+    "success": {
+        "created": "Wydarzenie zostało pomyślnie dodane!",
+        "updated": "Wydarzenie zostało pomyślnie uaktualnione!",
+        "deleted": "Wydarzenie zostało pomyślnie usunięte!"
+    },
+    "errors": {
+        "create_failed": "Wystąpił błąd! Wydarzenie nie zostało dodane...",
+        "update_failed": "Wystąpił błąd! Wydarzenie nie zostało uaktualnione...",
+        "delete_failed": "Wystąpił błąd! Wydarzenie nie zostało usunięte..."
+    }
+}
